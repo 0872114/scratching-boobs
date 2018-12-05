@@ -21,7 +21,7 @@ $ brew install sox
 And run
 
 ```
-sh goo.sh
+$ sh goo.sh
 ```
 
 ## Authors
