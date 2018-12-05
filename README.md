@@ -21,13 +21,12 @@ $ brew install sox
 And run
 
 ```
-$ sh goo.sh
+$ sh play.sh
 ```
 
 ## Authors
 
 * **0872114** - *simply everything* (https://github.com/0872114)
-
 
 ## License
 
@@ -36,3 +35,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Lestat, don't forget to add proper README.MD if yo don't wonna have my pull requests in your repo =)
+
+## ATTENTION!!!
+
+* This script will play forever even if you send a kill signal
